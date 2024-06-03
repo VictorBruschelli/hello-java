@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java; //questo è il packege che utilizzero per questa clase
 
 public class HelloJava {
 
